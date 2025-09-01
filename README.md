@@ -85,7 +85,7 @@ while True:
     s.send("Acknowledgement Recived".encode())
 ```
 
-##Output :
+## Output :
 <img width="1834" height="891" alt="image" src="https://github.com/user-attachments/assets/52d61bfc-4731-428f-bc49-cd907633d421" />
 
 ## Result:
